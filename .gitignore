@@ -41,3 +41,7 @@ bin/*.sh
 *.tiff
 
 output/*.*
+
+images/*.*
+test-images/*.*
+test-masks/*.*
